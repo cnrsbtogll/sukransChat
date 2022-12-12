@@ -4,7 +4,7 @@
 	"description": "Minimalist chat",
 	"dependencies": {
 		"socket.io": "~0.9.16",
-		"express": "^4.17.1",	
+		"express": "^4.17.3",	
 		"mongoose": "^5.9.9"
 	}
 }
